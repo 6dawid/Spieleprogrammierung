@@ -1,4 +1,4 @@
-# Spieleprograirung
+# Spieleprogammierung
 
 # Nächtlicher Hungers Albtraum - Dawid Rzepka
 
