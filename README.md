@@ -11,5 +11,5 @@ Das Spiel lässt sich starten und einige Szenen sind bereits durchspielbar. Trot
 
 ## Beteiligung von KI
 
-Einige Abschnitte des Spiels, insbesondere Storyfragmente, Dialogideen und Formulierungen in der Benutzeroberfläche, wurden mithilfe von KI-Tools (z. B. ChatGPT von Codepilot) erstellt oder verbessert. Dabei habe ich die KI gezielt eingesetzt, um kreative Textelemente zu entwickeln oder Programmierprobleme schneller zu lösen.  
+Einige Abschnitte des Spiels, insbesondere Storyfragmente, Dialogideen und Formulierungen in der Benutzeroberfläche, wurden mithilfe von KI-Tools (z. B. ChatGPT von Copilot) erstellt oder verbessert. Dabei habe ich die KI gezielt eingesetzt, um kreative Textelemente zu entwickeln oder Programmierprobleme schneller zu lösen.  
 Die Umsetzung, Strukturierung und Integration ins Spiel erfolgten jedoch eigenständig.
